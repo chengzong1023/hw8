@@ -1,0 +1,4 @@
+﻿mask,act,area_km2,W3_shelter_hits,W3_shelter_names,W7_bottleneck_hits,W7_bottleneck_names,guangfu_hits,guangfu_names,coverage_gap
+C1_barrier_lake,Mid (Sep 11),1.046,0,—,0,—,0,—,W3/W7 cover Hualien City only; no nodes in Wanrong upstream
+C2_landslide_source,Post (Oct 16),19.818,13,"2060, 2117, 2143, 2180, 2202, 2232, 2236, 2244, 2247, 2293, 2338, 2384, 2420",0,—,4,"Guangfu_Station, Guangfu_Elementary, Guangfu_Township_Office, Foxu_Debris_Zone",Landslide scar in upper Wanrong; outside W3/W7 coverage zone
+C3_debris_flow,Post (Oct 16),9.498,6,"2060, 2117, 2202, 2236, 2293, 2420",0,—,2,"Guangfu_Township_Office, Foxu_Debris_Zone",Debris flow buried Guangfu township; W3 shelters are ~30 km north in Hualien City
